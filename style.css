@@ -1,5 +1,21 @@
 *{
-    text-transform: uppercase;
+    box-sizing: border-box;
     color: white !important;
     background-color: black;
+    margin: 0;  
+    padding: 0;
+}
+.navbar{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+    
+
+img{
+    max-width: 5%;
+    height: auto;
 }
